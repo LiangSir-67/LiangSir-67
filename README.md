@@ -1,4 +1,13 @@
 ### Hi there,I'm LiangSir! 👋
+* 🌱 Currently working in Hangzhou, China.
+* 💬 Ask me about Java, TypeScript and my projects on 2434387555@qq.com
+* ⭐ You may like webkettle 、hexo-theme-yilia-plus 、or bootplus
+* ⚡ Fun fact: Data Analysis📊
+🛠 技术栈 | Tech Stack
+* 💻   Java Linux 聚合支付
+* 🌐   HTML5 Bootstrap Node.js Vue.js
+* 🛢   MySQL Redis
+* 🔧  Git GitHub Markdown
 
 <!--
 **LiangSir-67/LiangSir-67** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
