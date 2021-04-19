@@ -1,10 +1,10 @@
 ## Hi there,I'm LiangSir! 👋
-* 🌱 Currently working in Hangzhou, China.
-* 💬 Ask me about Java, TypeScript and my projects on 2434387555@qq.com
-* ⭐ You may like webkettle 、hexo-theme-yilia-plus 、or bootplus
-* ⚡ Fun fact: Data Analysis📊
+* ⭐ 就读于成都东软学院
+* ⚡ 活在当下的准程序猿
+* 🌱 清晨的花朵，开在黄昏中的残骸之上，一切都会过去，不是吗？
+* 💬 和我讨论Java相关 1732178815@qq.com
 ## 🛠 技术栈 | Tech Stack
-* 💻   Java Linux 聚合支付
+* 💻   Java Linux 
 * 🌐   HTML5 Bootstrap Node.js Vue.js
 * 🛢   MySQL Redis
 * 🔧  Git GitHub Markdown
