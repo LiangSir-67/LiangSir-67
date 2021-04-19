@@ -15,3 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![booms21](https://github-readme-stats.vercel.app/api?username=LiangSir-67&show_icons=true&include_all_commits=true?count_private=true?include_all_commits=true&theme=vue)
+[![Rainbow cat's github stats](https://github-readme-stats.vercel.app/api?username=LiangSir-67&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
