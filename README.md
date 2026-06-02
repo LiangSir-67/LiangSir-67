@@ -1,27 +1,37 @@
-## Hi there,I'm 梁歪歪! 👋
+## Hi there, I'm 梁歪歪! 👋
+
 * ⭐ 从事Java后端开发工作
 * ⚡ 活在当下的准程序猿
 * 🌱 清晨的花朵，开在黄昏中的残骸之上，一切都会过去，不是吗？
-* 💬 和我讨论Java相关 1732178815@qq.com
+* 💬 和我讨论Java相关：1732178815@qq.com
 * 😄 [LiangSir's Blog](http://liangyy.cn/)
+
 ## 🛠 技术栈 | Tech Stack
-* 💻   Java Linux 
+
+* 💻   Java Linux
 * 🌐   HTML5 Bootstrap Node.js Vue.js
 * 🛢   MySQL Redis
 * 🔧  Git GitHub Markdown
 
-<!--
-**LiangSir-67/LiangSir-67** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 📊 GitHub Stats
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-[![Rainbow cat's github stats](https://github-readme-stats.vercel.app/api?username=LiangSir-67&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+![LiangSir-67's GitHub Stats](https://github-readme-stats.vercel.app/api?username=LiangSir-67&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LiangSir-67&layout=compact&theme=radical)
+
+---
+
+<!-- Visitor Count -->
+![Visitor Count](https://profile-counter.glitch.me/LiangSir-67/count.svg)
+
+---
+
+<!-- GitHub Profile Trophy -->
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=LiangSir-67&theme=radical&no-frame=false&no-bg=false&column=6)
+
+---
+
+<!-- GitHub Streak -->
+![GitHub Streak](https://streak-stats.demolab.com/?user=LiangSir-67&theme=radical)
