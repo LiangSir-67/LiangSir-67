@@ -17,18 +17,18 @@
 
 ## 📊 GitHub Stats
 
-![LiangSir-67's GitHub Stats](https://github-readme-stats.vercel.app/api?username=LiangSir-67&show_icons=true&theme=radical)
+![LiangSir-67's GitHub Stats](https://github-readme-stats-cec.vercel.app/api?username=LiangSir-67&show_icons=true&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LiangSir-67&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats-cec.vercel.app/api/top-langs/?username=LiangSir-67&layout=compact&theme=radical)
 
 ---
 
 <!-- Visitor Count -->
-![Visitor Count](https://profile-counter.glitch.me/LiangSir-67/count.svg)
+![Visitor Count](https://visitcount.itsvg.in/api?id=LiangSir-67&label=Visitors&color=44b10&count=true&edge=flat&icon=true&style=flat-square)
 
 ---
 
-<!-- GitHub Profile Trophy -->
+<!-- GitHub Trophies -->
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=LiangSir-67&theme=radical&no-frame=false&no-bg=false&column=6)
 
 ---
