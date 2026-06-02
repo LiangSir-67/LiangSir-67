@@ -12,3 +12,10 @@
 * 🌐   HTML5 Bootstrap Node.js Vue.js
 * 🛢   MySQL Redis
 * 🔧  Git GitHub Markdown
+
+## 🤖 AI & LLM
+
+* 🧠 熟悉 AI 大模型应用开发（LLM、RAG、Agent）
+* 🔧 熟练使用 Claude / ChatGPT / DeepSeek 等主流 AI 工具
+* 📦 了解 Vector Database（向量数据库）应用场景
+* ⚡ 探索 AI 赋能业务提效最佳实践
