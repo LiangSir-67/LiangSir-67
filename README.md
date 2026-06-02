@@ -12,26 +12,3 @@
 * 🌐   HTML5 Bootstrap Node.js Vue.js
 * 🛢   MySQL Redis
 * 🔧  Git GitHub Markdown
-
----
-
-## 📊 GitHub Stats
-
-![LiangSir-67's GitHub Stats](https://github-readme-stats-cec.vercel.app/api?username=LiangSir-67&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats-cec.vercel.app/api/top-langs/?username=LiangSir-67&layout=compact&theme=radical)
-
----
-
-<!-- Visitor Count -->
-![Visitor Count](https://visitcount.itsvg.in/api?id=LiangSir-67&label=Visitors&color=44b10&count=true&edge=flat&icon=true&style=flat-square)
-
----
-
-<!-- GitHub Trophies -->
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=LiangSir-67&theme=radical&no-frame=false&no-bg=false&column=6)
-
----
-
-<!-- GitHub Streak -->
-![GitHub Streak](https://streak-stats.demolab.com/?user=LiangSir-67&theme=radical)
